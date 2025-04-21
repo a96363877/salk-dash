@@ -4,13 +4,14 @@ import { getFirestore} from 'firebase/firestore';
 import { getDatabase} from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBPH_gVUGgAdZcEjhhfJnJyYC4JOUhtLpM",
-  authDomain: "salkkk-bd2e2.firebaseapp.com",
-  projectId: "salkkk-bd2e2",
-  storageBucket: "salkkk-bd2e2.firebasestorage.app",
-  messagingSenderId: "192918343771",
-  appId: "1:192918343771:web:0f83e6d325333e1aa72f7e",
-  measurementId: "G-BRSE34XM8F"
+   apiKey: "AIzaSyAcnAAlZzpKwN0nwNTzsrz0ka8OleoljJg",
+  authDomain: "mysms-7b5e8.firebaseapp.com",
+  databaseURL: "https://mysms-7b5e8-default-rtdb.firebaseio.com",
+  projectId: "mysms-7b5e8",
+  storageBucket: "mysms-7b5e8.firebasestorage.app",
+  messagingSenderId: "1008260512816",
+  appId: "1:1008260512816:web:824a72a0a63c1dc229c1f5",
+  measurementId: "G-PLK4GEZFSZ"
 };
 
 
